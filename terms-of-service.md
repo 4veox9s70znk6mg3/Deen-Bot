@@ -2,7 +2,7 @@
 
 ## 1. Acceptance of Terms
 
-By using the DeenBot Discord bot, you agree to these Terms of Service. If you do not agree, please do not use the bot.
+By using the Deen Bot Discord bot, you agree to these Terms of Service. If you do not agree, please do not use the bot.
 
 ## 2. Use of the Bot
 
