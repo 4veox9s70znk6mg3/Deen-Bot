@@ -6,7 +6,7 @@ This Privacy Policy describes how Deen Bot collects, uses, and protects informat
 
 ## 2. Information Collected
 
-DeenBot does not collect personal data. The bot only has access to information provided by the Discord API, which may include your username, user ID, and server information. No message content or personal messages are accessed or stored.
+Deen Bot does not collect personal data. The bot only has access to information provided by the Discord API, which may include your username, user ID, and server information. No message content or personal messages are accessed or stored.
 
 ## 3. Use of Information
 
